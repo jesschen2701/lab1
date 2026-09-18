@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 80vw;
+    margin: 0 auto;
+}
+header{
+    background-color: darkorange;
+    color: black;
+    text-align: center;
+    padding: 1vw;
+}
+header h1{
+    font-family: "Metal Mania", system-ui;
+    font-size: calc(25px + 3.8vw);
+}
+header p{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: calc(15px + 1vw);
+}
+nav{
+    background-color: black;
+    padding: 0.2vw;
+}
+nav ul{
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 0vw calc(1vw + 2vw);
+    border-right: 2px solid gray;
+}
+#rightmost{
+    border-right: none;
+}
+nav a{
+    text-decoration: none;
+    font-family: Papyrus, Fantasy;
+    font-size: calc(10px + 1vw);
+    font-weight: bold;
+    color: white;
+}
+main{
+    background-color: #1a0a1f;
+    color: white;
+    padding: 2vw;
+    height: 105vh;
+    text-align: center;
+}
+main h2{
+    color: orange;
+    font: bold calc(10px + 2vw) Papyrus, fantasy;
+    text-transform: uppercase;
+    margin-bottom: 1vw;
+}
+main img{
+    display: block;
+    max-width: 45%;
+    margin: 0 auto;
+    border: 8px double darkred;
+}
+main p{
+    margin: 2vw auto;
+    padding: 1vw;
+    max-width: 70%;
+    font-family: Georgia, serif;
+    font-size: calc(7px + 1vw);
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.5vw;
+    text-align: center;
+}
+
+
+.costume-nav {
+    background-color: #8E1616;
+}
+
+.costume-nav li {
+    border-right: 2px solid #EEEEEE;
+}
+
+.costume-nav a {
+    color: #EEEEEE;
+}
+
+.costume-main{
+    background-color: #260606;
+}
+
+.costume-main h2{
+    font-color: E8C999;
+}

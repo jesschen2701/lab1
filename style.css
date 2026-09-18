@@ -97,3 +97,13 @@ footer {
 .costume-main h2{
     font-color: E8C999;
 }
+
+#cute-img{
+    max-width: 60%;
+}
+
+button{
+    margin: 4vw auto;
+    color: red;
+    background-color: black;
+}

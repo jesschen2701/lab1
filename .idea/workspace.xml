@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000011164387" />
-      <entry key="S2" value="1.0164173230703357" />
-      <entry key="S5" value="1.8355200189352965" />
-      <entry key="S10" value="4.364414144588776" />
-      <entry key="S30" value="9.711149882977283" />
-      <entry key="S60" value="12.76698527253391" />
-      <entry key="M2" value="17.366640633709" />
-      <entry key="M5" value="28.56755091573348" />
-      <entry key="M10" value="46.98918410492231" />
-      <entry key="M15" value="65.93348541475048" />
-      <entry key="M30" value="114.20650448954791" />
-      <entry key="H1" value="169.52489987274328" />
-      <entry key="H2" value="214.2886656875056" />
-      <entry key="H4" value="243.27601669736927" />
-      <entry key="D1" value="275.7811658294465" />
-      <entry key="W1" value="329.27887287886415" />
+      <entry key="MS100" value="1.0561145669855487" />
+      <entry key="MS500" value="2.213644228092872" />
+      <entry key="S2" value="5.194832714143341" />
+      <entry key="S5" value="7.877651575503827" />
+      <entry key="S10" value="9.545870724624944" />
+      <entry key="S30" value="11.536677492056123" />
+      <entry key="S60" value="14.197441457012403" />
+      <entry key="M2" value="21.53827713761302" />
+      <entry key="M5" value="42.746049378456036" />
+      <entry key="M10" value="71.30924020510221" />
+      <entry key="M15" value="93.05466850961854" />
+      <entry key="M30" value="131.69203009518003" />
+      <entry key="H1" value="162.8013818163907" />
+      <entry key="H2" value="186.960373312082" />
+      <entry key="H4" value="228.04197509845991" />
+      <entry key="D1" value="403.1604458501835" />
+      <entry key="W1" value="520.8200163014441" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.8543303866196534E-130" />
-      <entry key="S5" value="1.521253893237627E-52" />
-      <entry key="S10" value="1.2335400165935231E-26" />
-      <entry key="S30" value="2.432289251753216E-9" />
-      <entry key="S60" value="6.189321115316575E-5" />
-      <entry key="M2" value="0.012734380272615383" />
-      <entry key="M5" value="0.44113746895409855" />
-      <entry key="M10" value="1.9596060991908566" />
-      <entry key="M15" value="3.796573693247266" />
-      <entry key="M30" value="8.86992162191453" />
-      <entry key="H1" value="14.924786881524037" />
-      <entry key="H2" value="19.89095013521792" />
-      <entry key="H4" value="23.12160014170868" />
-      <entry key="D1" value="27.411278688396457" />
-      <entry key="W1" value="41.25515323405088" />
+      <entry key="MS100" value="1.0930540294472642E-134" />
+      <entry key="MS500" value="1.6133490062693079E-27" />
+      <entry key="S2" value="2.0041585761537417E-7" />
+      <entry key="S5" value="0.002093017370085551" />
+      <entry key="S10" value="0.04574950677423257" />
+      <entry key="S30" value="0.3576537258740659" />
+      <entry key="S60" value="0.5995474872862515" />
+      <entry key="M2" value="0.8597900748867652" />
+      <entry key="M5" value="2.0174404147094367" />
+      <entry key="M10" value="4.0805680517410075" />
+      <entry key="M15" value="5.734705407543701" />
+      <entry key="M30" value="8.776049273858511" />
+      <entry key="H1" value="11.3053149136433" />
+      <entry key="H2" value="13.348856361801898" />
+      <entry key="H4" value="17.133342039939155" />
+      <entry key="D1" value="34.52941992668588" />
+      <entry key="W1" value="54.33106410448663" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.0711172126364506E-8" />
-      <entry key="MS500" value="0.033261568826301754" />
-      <entry key="S2" value="0.44156160857776927" />
-      <entry key="S5" value="1.5239598310982394" />
-      <entry key="S10" value="4.171199217514742" />
-      <entry key="S30" value="9.62914773193757" />
-      <entry key="S60" value="12.721481237588337" />
-      <entry key="M2" value="17.352272961104603" />
-      <entry key="M5" value="28.98864295409531" />
-      <entry key="M10" value="48.9263386833758" />
-      <entry key="M15" value="69.70509921265966" />
-      <entry key="M30" value="123.0499256590797" />
-      <entry key="H1" value="184.42795748370108" />
-      <entry key="H2" value="234.1652486937115" />
-      <entry key="H4" value="266.38928982770415" />
-      <entry key="D1" value="303.19081393563454" />
-      <entry key="W1" value="370.53369479642004" />
+      <entry key="MS100" value="0.9457816215628795" />
+      <entry key="MS500" value="2.1636794971023003" />
+      <entry key="S2" value="5.130645303682127" />
+      <entry key="S5" value="7.773849988666894" />
+      <entry key="S10" value="9.4892248387455" />
+      <entry key="S30" value="11.820933391921622" />
+      <entry key="S60" value="14.732861923988814" />
+      <entry key="M2" value="22.330459081914178" />
+      <entry key="M5" value="44.68573360860795" />
+      <entry key="M10" value="75.31488519303846" />
+      <entry key="M15" value="98.72180743882605" />
+      <entry key="M30" value="140.41922201010644" />
+      <entry key="H1" value="174.07638581337028" />
+      <entry key="H2" value="200.29193093937639" />
+      <entry key="H4" value="245.16512155581123" />
+      <entry key="D1" value="437.687105968095" />
+      <entry key="W1" value="575.1505355636435" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,6 +105,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Halloween.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.scary.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -142,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789140088763</updated>
       <workItem from="1789140089821" duration="5638000" />
-      <workItem from="1789699851875" duration="6787000" />
+      <workItem from="1789699851875" duration="10402000" />
     </task>
     <servers />
   </component>
